@@ -1,0 +1,6 @@
+{
+  "name": "DistriGest - DistriSur Araucanía SpA",
+  "description": "Sistema de gestión empresarial para distribución regional en Temuco y Angol. Control de clientes, inventario FEFO, DTE SII, compras y comisiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
